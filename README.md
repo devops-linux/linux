@@ -1,7 +1,10 @@
 # 使用说明
 
 ## 1 执行方法
-
+asdf
+Asdfaa
+for 1=0 
+asdf
 ---
 install.sh是基础组件集成安装脚本
 
